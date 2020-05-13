@@ -110,13 +110,7 @@ export default function Footer() {
             </div>
           </div>
           <div className='row footer-bottom d-flex justify-content-between align-items-center'>
-            <p className='col-lg-12 footer-text text-center'>
-              Copyright &copy;
-              {new Date().getFullYear()}
-              All rights reserved | This template is made with
-              <FontAwesomeIcon icon={faHeart} /> by
-              <a href='https://colorlib.com'>Colorlib</a>
-            </p>
+            <p className='col-lg-12 footer-text text-center'></p>
           </div>
         </div>
       </footer>
