@@ -1,7 +1,17 @@
 ## Team branches
+
 master ==>> Muhammad Hamza 17L-4135<br/>
 anas_work ==>> Muhammad Annus 17L-4252<br/>
 kazim_work ==>> Syed Kazim Raza<br/>
+
+## Project Details
+
+The project is planned to be made in full MERN(Mongo Express Node React) stack<br/>
+The frontend is made using React library<br/>
+The backend is a rest api made through node js express ap framework<br/>
+The /src/layouts folder contains the layout components that are common in all pages<br/>
+The /src/pages folder contains the main components of the site and each component represents a single page<br/>
+The /src/componets folder contains components for each page component in the pages folder<br/>
 
 ## Available Scripts
 
