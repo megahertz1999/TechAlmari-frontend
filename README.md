@@ -1,7 +1,7 @@
 ## Team branches
 master ==>> Muhammad Hamza 17L-4135<br/>
 anas_work ==>> Muhammad Annus 17L-4252<br/>
-kazim_work ==>> SyedKazim Raza<br/>
+kazim_work ==>> Syed Kazim Raza<br/>
 
 ## Available Scripts
 
